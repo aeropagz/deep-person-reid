@@ -49,7 +49,7 @@ setup(
     author='Kaiyang Zhou',
     license='MIT',
     long_description=readme(),
-    url='https://github.com/KaiyangZhou/deep-person-reid',
+    url='https://github.com/aeropagz/deep-person-reid',
     packages=find_packages(),
     install_requires=get_requirements(),
     keywords=['Person Re-Identification', 'Deep Learning', 'Computer Vision'],
