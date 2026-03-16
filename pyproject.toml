@@ -23,3 +23,6 @@ dependencies = [
     "yacs>=0.1.8",
     "yapf>=0.43.0",
 ]
+
+[tool.setuptools]
+packages = ["torchreid", "configs", "projects"]
