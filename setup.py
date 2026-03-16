@@ -43,7 +43,7 @@ def get_requirements(filename='requirements.txt'):
 
 
 setup(
-    name='torchreid',
+    name='osnet',
     version=find_version(),
     description='A library for deep learning person re-ID in PyTorch',
     author='Kaiyang Zhou',
